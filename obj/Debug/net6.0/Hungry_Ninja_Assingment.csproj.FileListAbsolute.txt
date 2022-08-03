@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\bin\Debug\net6.0\Hungry_Ninja_Assingment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\bin\Debug\net6.0\Hungry_Ninja_Assingment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\bin\Debug\net6.0\Hungry_Ninja_Assingment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\bin\Debug\net6.0\Hungry_Ninja_Assingment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\bin\Debug\net6.0\Hungry_Ninja_Assingment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\refint\Hungry_Ninja_Assingment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\Hungry_Ninja_Assingment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Hungry_Ninja_Assingment\obj\Debug\net6.0\ref\Hungry_Ninja_Assingment.dll
